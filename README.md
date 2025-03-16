@@ -1,4 +1,6 @@
-## Hi there 👋
+## Halo disana! 👋
+Aku Alreynn.
+# Saya sedang mempelajari JavaScript.
 
 <!--
 **Alreynn/Alreynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
